@@ -1,0 +1,17 @@
+hi {
+    color: red;
+}
+img {
+    width: 400px;
+}
+#ThirdDiv {
+    height: 600; 
+    width: 500; 
+    background-color: orange;
+    padding: 50px;
+    border: 15px solid red;
+}
+#spanID {
+    font-size: 18px;
+    margin: 50px;
+}
