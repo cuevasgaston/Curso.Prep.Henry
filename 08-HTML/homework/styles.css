@@ -1,5 +1,15 @@
-hi {
-    color: red;
+body {
+    background-image: url("https://puradata.com.ar/wp-content/uploads/2017/12/campos.jpg");
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+
+h1 {
+    color: rgb(233, 158, 158);
 }
 img {
     width: 400px;
@@ -7,9 +17,9 @@ img {
 #ThirdDiv {
     height: 600; 
     width: 500; 
-    background-color: orange;
+    background-color: rgb(82, 62, 25);
     padding: 50px;
-    border: 15px solid red;
+    border: 15px solid rgb(78, 4, 4);
 }
 #spanID {
     font-size: 18px;
